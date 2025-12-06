@@ -220,7 +220,7 @@ The Ethernet/WiFi objects have some functions for simple services. (Libraries ma
 |[WiFiEspAT][14] | ✓ | ✓ | ✓ |
 |[EthernetENC][15] | + | | |
 |[STM32Ethernet][16]| | | |
-|[QNEthernet][17] | + | | |
+|[QNEthernet][17] | + | ✓ | |
 |[RP2040 WiFi][18] | ✓ | ✓ | returns millis() !!! |
 |[RP2040 LwipIntfDev][19] | ✓ | ✓ | |
 
